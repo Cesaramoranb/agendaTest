@@ -1,4 +1,4 @@
-package com.mycompany.agendatest;
+package backend;
 
 public class AgendaTest {
 
