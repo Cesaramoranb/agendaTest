@@ -1,11 +1,11 @@
 package com.mycompany.agendatest;
 
-import frontend.Pantalla;
+import frontend.Login;
 
 public class AgendaTest {
 
     public static void main(String[] args) {
-        Pantalla screen = new Pantalla();
+        Login screen = new Login();
         screen.setVisible(true);
         screen.setLocationRelativeTo(null);
         
